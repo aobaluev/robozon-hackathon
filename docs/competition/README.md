@@ -12,7 +12,7 @@ The purpose of this section is to maintain a **single source of truth** for the 
 
 | Document                                                         | Description                                                                     | Status |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------ |
-| [requirements.md](requirements.md)                               | Original competition requirements and task description                          | 🚧     |
+| [requirements.md](requirements/requirements.md)                               | Original competition requirements and task description                          | 🚧     |
 | [requirements_clarifications.md](requirements_clarifications.md) | Official answers from organizers, summarized and grouped by topic               | 🚧     |
 | [constraints.md](constraints.md)                                 | Technical and organizational constraints identified during the project          | 🚧     |
 | [assumptions.md](assumptions.md)                                 | Engineering assumptions made where official clarification is unavailable        | 🚧     |

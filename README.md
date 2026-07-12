@@ -39,7 +39,7 @@ The repository contains all project artifacts including competition documentatio
 | Document                                                                       | Description                                   |
 | ------------------------------------------------------------------------------ | --------------------------------------------- |
 | [Competition Overview](docs/competition/README.md)                             | Entry point for all competition documentation |
-| [Requirements](docs/competition/requirements.md)                               | Original competition task                     |
+| [Requirements](docs/competition/requirements/requirements.md)                               | Original competition task                     |
 | [Requirements Clarifications](docs/competition/requirements_clarifications.md) | Official Q&A from organizers                  |
 | [Constraints](docs/competition/constraints.md)                                 | Technical and organizational limitations      |
 | [Assumptions](docs/competition/assumptions.md)                                 | Engineering assumptions                       |
